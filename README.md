@@ -17,7 +17,7 @@ Segue algumas imagens no portal Azure:
 
 ![Resource Group](./images/ResourceGroup.jpg)
 ![Virtual Machine Criação](./images/VMCriada.jpg)
-![Virtual Machine Conectada](./images/VmConectada.jpg)
+![Virtual Machine Conectada](./images/VMConectada.jpg)
 
 ## Conclusão
 Com este laboratório foi possível:
